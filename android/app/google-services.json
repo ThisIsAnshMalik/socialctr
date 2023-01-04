@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "853018429485",
+    "project_id": "socialctr-ab87a",
+    "storage_bucket": "socialctr-ab87a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853018429485:android:7e90f35ec047eb59a050a4",
+        "android_client_info": {
+          "package_name": "com.example.socialctr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853018429485-96j07j4kq9gvm34oukq8es05gg94091k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjm1E4eRXbIOYoE4-oR30nBc5mNf5a7jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853018429485-96j07j4kq9gvm34oukq8es05gg94091k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
