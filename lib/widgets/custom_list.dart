@@ -35,7 +35,7 @@ class CustomList extends StatelessWidget {
                         color: Colors.black,
                         width: 0.1,
                       )),
-                  margin: const EdgeInsets.only(bottom: 10),
+                  margin: const EdgeInsets.only(bottom: 15),
                   height: 185,
                   width: MediaQuery.of(context).size.width,
                   child: InkWell(
@@ -70,6 +70,7 @@ class CustomList extends StatelessWidget {
                                     item[index].title.toString(),
                                     style: TextStyle(
                                         fontSize: 16,
+                                        fontWeight: FontWeight.bold,
                                         color: Colors.white.withOpacity(0.75)),
                                   )),
                             )),

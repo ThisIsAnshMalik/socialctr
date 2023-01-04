@@ -44,7 +44,9 @@ class DetailedScreen extends StatelessWidget {
                     Text(
                       title,
                       style: TextStyle(
-                          fontSize: 20, color: Colors.white.withOpacity(0.7)),
+                          fontSize: 20,
+                          fontWeight: FontWeight.bold,
+                          color: Colors.white.withOpacity(0.7)),
                     ),
                     SizedBox(
                       height: MediaQuery.of(context).size.height * 0.01,
